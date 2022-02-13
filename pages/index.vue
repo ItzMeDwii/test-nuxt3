@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="container mx-auto">
-      aa
+      a
     </div>
   </div>
 </template>
